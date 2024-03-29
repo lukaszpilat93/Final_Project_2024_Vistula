@@ -1,11 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Introduction to Professional Translation Manual</title>
-</head>
-<body>
+
     <h1>Introduction:</h1>
     <p>Welcome to the world of professional translation! As you embark on your journey into the realm of linguistic expertise, you've chosen a field that requires not only language proficiency but also a keen understanding of cultural nuances and technical accuracy. This manual is tailored specifically for fresh graduates like yourself who are beginning their careers in a Translation Agency, specializing in the translation of German to English automotive manuals using Trados, one of the industry's leading translation software tools.</p>
 
