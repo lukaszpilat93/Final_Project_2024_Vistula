@@ -1,4 +1,7 @@
-During your recruitment process you were given a brief introduction to the company's main fields of expertise. 
+FILE TYPES - WHAT CAN YOU EXPECT
+===============
+
+During your recruitment process, you were given a brief introduction to the company's main fields of expertise. 
 Since your scope of responsibilities will include translating automotive manuals from German to Polish,
 you must know the core differences between the two types you are likely to encounter after the onboarding process:
 
@@ -6,5 +9,12 @@ you must know the core differences between the two types you are likely to encou
 |---------------|------------------------------|---------------|--------------------------------------------------              |
 | Nars          | Informal, simple and friendly| Informal      | Field-specific bbreviations allowed, first instance explained  |
 | ARKI          | Formal, official             | Formal        | Abbreviations allowed, first instance explained                |
+
+Please also note that in the Nars files you will find some specific codes that indicate a special workflow.
+
+Whenever you see an *AP00 file*, please do not follow the normal structure for orders, as e.g. Dokręć śrubę, but use the infinitive form, instead. This is especially important as these files are integral parts
+of the so-called service sheets, i.e. lists of actions, instead of simple instructions.
+
+
 
 
