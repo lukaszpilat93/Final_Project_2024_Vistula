@@ -1,4 +1,6 @@
-Welcome to the world of professional translation! As you embark on your journey into the realm of linguistic expertise, you've chosen a field that requires not only language proficiency but also a keen understanding of cultural nuances and technical accuracy. This manual is tailored specifically for fresh graduates like yourself who are beginning their careers in a Translation Agency, specializing in the translation of German to English automotive manuals using Trados, one of the industry's leading translation software tools.
+<h2>Welcome to the world of professional translation!</h2>
+
+As you embark on your journey into the realm of linguistic expertise, you've chosen a field that requires not only language proficiency but also a keen understanding of cultural nuances and technical accuracy. This manual is tailored specifically for fresh graduates like yourself who are beginning their careers in a Translation Agency, specializing in the translation of German to Polish automotive manuals using Trados, one of the industry's leading translation software tools.
 
 Within these pages, you will find comprehensive guidance, tips, and strategies to navigate the intricacies of automotive translation, harness the power of Trados, and cultivate the skills necessary to excel in this dynamic and rewarding profession. Whether you're a linguistics enthusiast, a car aficionado, or simply someone passionate about the art of communication, this manual is designed to equip you with the knowledge and tools to thrive in the fast-paced world of professional translation.
 
