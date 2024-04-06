@@ -18,3 +18,19 @@ Review Contents: Once the package is imported, you'll see its contents in the SD
 The mandatory components of a Trados package will be explained to you later on.
 
 2. TRANSLATION PHASE
+
+Now have a look at your **translation pane**. In other words, it is the place where you need to insert your translation. Every file consists of several segments. You can see some numbers near them. 
+These are the so-called matches. Here is a short overview:
+
+| Name            | Description                                                                                                                                                      |
+|-----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 100% Match      | These segments are an exact match with a segment stored in the translation memory. This means that the entire segment has been translated previously.             |
+| Context Match   | Context matches have a high degree of similarity to previously translated segments, identified by analyzing surrounding text and context.                          |
+| Repetitions     | Repetitions occur when the same segment appears multiple times within a document, allowing translators to apply the translation consistently throughout the text. |
+| Fuzzy Match     | Fuzzy matches are similar to 100% matches but with minor differences, such as variations in punctuation, terminology, or word order (percentage range between 50 and 99%).                             |
+| No Match        | When Trados cannot find any similar segments in the translation memory, it categorizes the segment as a "no match," requiring translation from scratch.     
+|
+
+3. SHOULD I STAY OR SHOULD I GO? HOW TO HANDLE THE TRADOS SEGMENTS
+
+Now try to remember the chapter devoted to project briefing analysis. Have a look at the given project requirements and check if 
