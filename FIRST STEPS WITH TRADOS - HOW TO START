@@ -1,1 +1,20 @@
+FIRST STEPS WITH TRADOS - HOW TO START
+===============
+Since you are expected to work with Trados, it is vital to know some basic steps that need to be followed.
 
+1. TRADOS PACKAGE - HOW TO OPEN IT
+
+Every single project consists of several XML files that will be provided to you in a Trados package. In order to start working with it, please follow these steps:
+
+Locate the Trados Package File: The Trados package file typically has a ".sdlppx" extension. The core part of your Trados package name is the name of the project assigned to you.
+
+Launch SDL Trados Studio.
+
+Open the Trados Package: In SDL Trados Studio, go to the "File" menu and select "Open Package." Alternatively, you can use the keyboard shortcut Ctrl + O. This will open a file dialog box.
+
+Select the Trados Package File: Navigate to the location where the Trados package file is saved, select it, and click "Open."
+
+Review Contents: Once the package is imported, you'll see its contents in the SDL Trados Studio interface. This includes the source files, any translation memories or termbases included in the package, and other project resources.
+The mandatory components of a Trados package will be explained to you later on.
+
+2. TRANSLATION PHASE
