@@ -15,7 +15,7 @@ Open the Trados Package: In SDL Trados Studio, go to the "File" menu and select 
 Select the Trados Package File: Navigate to the location where the Trados package file is saved, select it, and click "Open."
 
 Review Contents: Once the package is imported, you'll see its contents in the SDL Trados Studio interface. This includes the source files, any translation memories or termbases included in the package, and other project resources.
-The mandatory components of a Trados package will be explained to you later on.
+
 
 2. TRANSLATION PHASE
 
@@ -25,16 +25,17 @@ These are the so-called matches. Here is a short overview:
 | Name            | Description                                                                                                                                                      |
 |-----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 100% Match      | These segments are an exact match with a segment stored in the translation memory. This means that the entire segment has been translated previously.             |
-| Context Match   | Context matches have a high degree of similarity to previously translated segments, identified by analyzing surrounding text and context.                          |
-| Repetitions     | Repetitions occur when the same segment appears multiple times within a document, allowing translators to apply the translation consistently throughout the text. |
-| Fuzzy Match     | Fuzzy matches are similar to 100% matches but with minor differences, such as variations in punctuation, terminology, or word order (percentage range between 50 and 99%).                             |
+| Context Match (CM)   | Context matches have a high degree of similarity to previously translated segments, identified by analyzing surrounding text and context.                          |
+| Repetitions (light green)     | Repetitions occur when the same segment appears multiple times within a document, allowing translators to apply the translation consistently throughout the text. |
+| Fuzzy Match (1-99%)     | Fuzzy matches are similar to 100% matches but with minor differences, such as variations in punctuation, terminology, or word order (percentage range between 50 and 99%).                             |
 | No Match        | When Trados cannot find any similar segments in the translation memory, it categorizes the segment as a "no match," requiring translation from scratch.     
 |
 
 3. SHOULD I STAY OR SHOULD I GO? HOW TO HANDLE THE TRADOS SEGMENTS
 
 Now try to remember the chapter devoted to project briefing analysis. Have a look at the given project requirements and check what the client ordered. If it is **translation-only", please start with the first segment you see
-and continue with all of them. Try to maintain consistency within the file itself as well as in the entire project. Don't forget to confirm every single segment with the "Confirm" button. Otherwise you are bound to lose all your work results!
+and continue with all of them, checking all the content. Try to maintain consistency within the file itself as well as in the entire project. Don't forget to confirm every single segment with the "Confirm" button. Otherwise you are bound
+to lose all your work results!
 
 4. FUZZY MATCHES - TRICKS AND BEST PRACTICES
 
@@ -42,7 +43,8 @@ While it is fairly easy to handle the 100% matches and repetitions, things go a 
 
 Compare Source and Target: Compare the source segment with the suggested translation to identify any differences. Pay attention to variations in punctuation, terminology, word order, and context.
 
-Depending on the degree of similarity and the context, you may need to edit the suggested translation to align it with the current segment. Make adjustments to ensure accuracy and coherence with the surrounding text.
+Depending on the degree of similarity and the context, you may need to edit the suggested translation to align it with the current segment. Make adjustments to ensure accuracy and coherence with the surrounding text. Sometimes the changes
+may be just minor, so please be careful.
 
 5. FINAL...COUNTDOWN...NO, FINAL STEPS
 
