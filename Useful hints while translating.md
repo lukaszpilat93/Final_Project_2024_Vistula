@@ -2,7 +2,7 @@
 
 title: Useful hints while translating
 layout: default
-nav_order: 6
+nav_order: 7
 
 ---
 
