@@ -34,19 +34,7 @@ have a very tight time-to-market schedule!
 **GENERAL STYLE & GRAMMAR CONSIDERATIONS**
 
 Irrespective of the file type, please bear in mind that you are expected to provide meticulous, error-free translation as it is a vital part of the brand's image. Should any doubts arise, never guess the correct workflow. Instead, please
-DO CONSULT the widely known references:
-
--Polish language dictionary: https://sjp.pwn.pl/
-
--FAQ about the Polish language: https://sjp.pwn.pl/poradnia
-
--Excel-based dictionary prepared on the basis of previous translations + feedback from Mercedes-Benz AG. In order to reach it, please go to: [TU WSTAWIĆ LINK DO GOOGLE DRIVE ZE SŁOWNIKIEM]
-
->In case of any doubts please remember to FILL IN AND SUBMIT THE Q&A SHEET IN DUE time so that the project managers on the client's side have enough time to reply.
-
-It is, however, not only grammar that matters. Please note that you are expected to follow the specific style guidelines that will help you ensure consistency with the rest of the materials already in use. 
-
-To find out more, please visit [Branding Styleguides](https://brandingstyleguides.com/guide/mercedes-benz/).
+DO CONSULT the widely known reference. To find out more, please visit #Further reading + references.
 
 
 
