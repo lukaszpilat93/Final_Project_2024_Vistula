@@ -2,7 +2,7 @@
 
 title: Post-processing of the translated files
 layout: default
-nav_order: 4
+nav_order: 6
 
 ---
 POST-PROCESSING OF THE TRANSLATED FILES
