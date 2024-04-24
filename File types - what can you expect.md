@@ -34,7 +34,7 @@ have a very tight time-to-market schedule!
 **GENERAL STYLE & GRAMMAR CONSIDERATIONS**
 
 Irrespective of the file type, please bear in mind that you are expected to provide meticulous, error-free translation as it is a vital part of the brand's image. Should any doubts arise, never guess the correct workflow. Instead, please
-DO CONSULT the widely known reference. To find out more, please visit #Further reading + references.
+DO CONSULT the widely known reference. To find out more, please visit # Further reading + references.
 
 
 
