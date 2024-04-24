@@ -2,10 +2,9 @@
 
 title: Project briefing analysis
 layout: default
-nav_order: 1
+nav_order: 2
 
 ---
-
 PROJECT BRIEFING ANALYSIS
 ===============
 Now that you know the expectations regarding the tone of voice and general style considerations, it is time to make the next step. Every project handout contains the so called **project briefing**. 
