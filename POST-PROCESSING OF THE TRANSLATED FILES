@@ -1,3 +1,10 @@
+---
+
+title: Home
+layout: default
+nav_order: 4
+
+---
 POST-PROCESSING OF THE TRANSLATED FILES
 ===============
 The post-processing of the translated files was already covered in the previous chapters. This chapter aims, however, to provide you with a short overview of this process, with a
