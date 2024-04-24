@@ -2,7 +2,7 @@
 
 title: File types - what can you expect
 layout: default
-nav_order: 2
+nav_order: 3
 
 ---
 FILE TYPES - WHAT CAN YOU EXPECT AND HOW TO PROCEED TO BE SUCCESSFUL
