@@ -1,7 +1,9 @@
 ---
+
 title: Home
 layout: default
 nav_order: 1
+
 ---
 <h2>Welcome to the world of professional translation!</h2>
 
