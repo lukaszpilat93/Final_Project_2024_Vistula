@@ -1,5 +1,5 @@
 ---
-title: FILE TYPES - WHAT CAN YOU EXPECT
+title: File types - what can you expect
 layout: default
 nav_order: 2
 ---
