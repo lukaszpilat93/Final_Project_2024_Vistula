@@ -40,6 +40,7 @@ Please cast a look at this example:
 
 ![Xbench](Xbench_sample.jpg)
 
+
 Question: May I use machine translation? This would facilitate the translation process and help me get ready with the task even before deadline.
 
 Answer: No. According to the non-disclosure agreement that our company signed you are not allowed to use any third-party translation providers, including machine translation services. Most of the files include sensitive data and
