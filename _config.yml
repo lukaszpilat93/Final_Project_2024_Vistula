@@ -7,5 +7,10 @@ url: https://github.com/lukaszpilat93/Translating-automotive-content-for-beginne
 markup / liquid-based content.
 footer_content: "Translating automotive content for beginners - guide for newbies in the translation industry by Łukasz Pilat</a>"
 
+callouts:
+ note:
+    title: note
+    color: blue
+
 
 
