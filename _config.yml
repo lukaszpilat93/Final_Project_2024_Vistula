@@ -8,8 +8,7 @@ markup / liquid-based content.
 footer_content: "Translating automotive content for beginners - guide for newbies in the translation industry by Łukasz Pilat</a>"
 
 callouts:
-  Warning:
+  warning:
     title: Warning
     color: red
-
 
