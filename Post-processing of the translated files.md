@@ -20,13 +20,14 @@ The next step is to generate the sdlxliff files. To do so, please open your Trad
 2. Select all the files by clicking the Ctrl-A shortcut. 
 3. Click "Batch Tasks"
 4. Choose the "Generate Target Translation" option from the dropdown menu.
-5. All you have to do in the next steps is just clicking the "Next" button. 
-6. When the process is finished and no errors are shown, just accept the prompt "Would you like to open the folder containing your exported documents?" by clicking "OK".
-7. You will be then directed to the folder with your files. You should find them in the "pl-PL" folder.
-8. Select all the files once again and upload them to a newly created folder on the F:/ drive. 
-9. Afterwards, please sign in to the XTRF Vendor Portal and click the project name.
-10. You can see the project page and the "Delivered Files" section. It is the place where you need to upload your files. 
-11. There is nothing more to do on your side. The project manager of our client will get notified that we are done. Congratulations!
+   !batch](batchtasks.png)
+6. All you have to do in the next steps is just clicking the "Next" button. 
+7. When the process is finished and no errors are shown, just accept the prompt "Would you like to open the folder containing your exported documents?" by clicking "OK".
+8. You will be then directed to the folder with your files. You should find them in the "pl-PL" folder.
+9. Select all the files once again and upload them to a newly created folder on the F:/ drive. 
+10. Afterwards, please sign in to the XTRF Vendor Portal and click the project name.
+11. You can see the project page and the "Delivered Files" section. It is the place where you need to upload your files. 
+12. There is nothing more to do on your side. The project manager of our client will get notified that we are done. Congratulations!
 
 TRANSLATION+EDITING
 
