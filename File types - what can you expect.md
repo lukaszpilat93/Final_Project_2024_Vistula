@@ -18,6 +18,7 @@ you must know the core differences between the two types you are likely to encou
 | ARKI          | Formal, official (3rd person plural)   | Formal        | Abbreviations allowed, first instance explained, only use widely known abbreviations |
 
 {: .warning }
+
 **SPECIFIC HINTS FOR NARS FILES**
 
 Please also note that in the Nars files, you will find some specific codes that indicate a special workflow.
