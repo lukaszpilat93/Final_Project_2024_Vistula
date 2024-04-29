@@ -21,3 +21,9 @@ Let this manual be your trusted companion on the journey ahead. With dedication,
 It is also highly advisable to keep it for future reference so that you can consult it any time it is needed.
 
 **Good luck!**
+
+**HOW TO CONTACT US**
+
+We've made every effort to ensure that this guide is up-to-date and accurate. However, please be aware that information may change over time. If you have any questions or suggestions for improvements, please don't hesitate to contact us. Your feedback is valuable in keeping this guide relevant and helpful.
+
+Contact us at lukaszpilat2@gmail.com for any inquiries or suggestions for updates.
