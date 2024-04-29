@@ -21,6 +21,8 @@ a brief description of an issue and, by clicking a specific potential error, you
 The same rule applies to spellcheck. In order to verify if your translation is free of any ortopgraphical shortcomings, go to the "Review" tab and click "Check spelling". The pop-up window will show,
 indicating any suspicious instances and giving you some alternatives for correction. In case of any repetitive erros, you are free to correct them all globally by hitting the "Change all" button.
 
+![Spelling](spelling.jpg)
+
 Question: The final Xbench raport contains many errors even though the translation was done very carefully, with a special reference to all the materials provided. How is this possible and should I worry?
 
 Answer: Even though Xbench is a smart and very helpful tool, it is not perfect, which means it can flag several instances as errors even though they are perfectly correct. In order to facilitate your review
