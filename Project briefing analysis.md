@@ -18,7 +18,7 @@ The most vital thing to remember is the difference between the following workflo
 
 This is the most basic workflow our client orders for non-customer facing outputs, such as e.g. internal guidelines of lesser importance. Since it is ONLY YOU who is expected to work on the project,
 make sure to check all the segments (called matches) as well as repetitions and context matches. The final (but equally important) step is to perform a quality assurance task being explained later. Afterwards, you instead of the project manager are expected to 
-forward the delivery to our final client. For more information about the various segment types, please go to the chapter [File types - what can you expect.md].
+forward the delivery to our final client. For more information about the various segment types, please go to the chapter [Translating-automotive-content-for-beginners/File types - what can you expect.md].
 
 **Translation + editing**
 
