@@ -16,6 +16,8 @@ Answer: No Internet connection does not prevent you from performing a QA. Please
 Simply go to the "Review" tab and press the "Verify" buttton. If you feel more comfortable with shortcuts, just press "F8". A pop-up window with a list of detected errors will show up. You can see
 a brief description of an issue and, by clicking a specific potential error, you will be directed to a certain row containting potential error. 
 
+!Verify](VerifyTrados.jpg)
+
 The same rule applies to spellcheck. In order to verify if your translation is free of any ortopgraphical shortcomings, go to the "Review" tab and click "Check spelling". The pop-up window will show,
 indicating any suspicious instances and giving you some alternatives for correction. In case of any repetitive erros, you are free to correct them all globally by hitting the "Change all" button.
 
