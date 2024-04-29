@@ -30,7 +30,7 @@ are not perfect enough to be fully trusted. Your discretion and common sense wil
 Don't forget that one source term should have in most cases only **ONE** equivalent in the target. This is especially important for the reader who needs to follow certain procedures promptly, 
 without getting confused about ambiguities
 
-- style
+-style
 
 As already indicated in the previous chapters, you will work with several different files that have their own specific requirements in terms of style. Before starting your self-revision, please reach out to the "File types - what can you expect"
 chapter. 
