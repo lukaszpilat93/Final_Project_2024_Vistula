@@ -24,6 +24,7 @@ callouts:
   note:
     title: note
     color: blue
+    
 Please also note that in the Nars files, you will find some specific codes that indicate a special workflow.
 
 Whenever you see an *AP00 file*, please do not follow the normal structure for orders, such as e.g. Dokręć śrubę, but use the infinitive form, instead (in this case "Dokręcenie śruby"). This is especially important as these files are
