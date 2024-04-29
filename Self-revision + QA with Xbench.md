@@ -91,6 +91,8 @@ Not that you know the certain categories and their meaning, you are ready to sta
 
 To do so, simply press the "QA" button in the upper toolbar and then proceed to "Check Ongoing Translation". 
 
+![Checkgoingtrans](checkongoing.jpg)
+
 As a result you will get a report outlining the error categories prepared on the basis of your output. Each of them contains the segments in which those issues occurred, accompanied by their number. Here's how to proceed to maximize
 the chance of spotting (and correcting) all errors:
 
