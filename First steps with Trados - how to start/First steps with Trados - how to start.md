@@ -51,8 +51,7 @@ While it is fairly easy to handle the 100% matches and repetitions, things go a 
 
 Compare Source and Target: Compare the source segment with the suggested translation to identify any differences. Pay attention to variations in punctuation, terminology, word order, and context.
 
-Depending on the degree of similarity and the context, you may need to edit the suggested translation to align it with the current segment. Make adjustments to ensure accuracy and coherence with the surrounding text. Sometimes the changes
-may be just minor, so please be careful.
+Depending on the degree of similarity and the context, you may need to edit the suggested translation to align it with the current segment. Make adjustments to ensure accuracy and coherence with the surrounding text. Sometimes the changes may be just minor, so please be careful.
 
 5. FINAL...COUNTDOWN...NO, FINAL STEPS
 
