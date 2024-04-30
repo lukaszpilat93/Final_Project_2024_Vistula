@@ -12,7 +12,7 @@ special reference to various workflows ordered by the client.
 
 >In general, please remember to report any doubts early enough so that they can be addressed by our team and to avoid possible delays of the entire process.
 
-TRANSLATION ONLY
+**TRANSLATION ONLY**
 
 After you have finished the QA process and other steps already discussed in the respective chapter, please once again make sure that all the files are finished, which is indicated by the 100% score in the progress bar.
 The next step is to generate the sdlxliff files. To do so, please open your Trados once again and:
@@ -29,7 +29,7 @@ The next step is to generate the sdlxliff files. To do so, please open your Trad
 11. You can see the project page and the "Delivered Files" section. It is the place where you need to upload your files. 
 12. There is nothing more to do on your side. The project manager of our client will get notified that we are done. Congratulations!
 
-TRANSLATION+EDITING
+**TRANSLATION+EDITING**
 
 This workflow is a bit easier for you as you are expected to be in charge of the "translation" phase only. In order to forward the files to our editor, please:
 
@@ -44,6 +44,6 @@ This workflow is a bit easier for you as you are expected to be in charge of the
 9. Notify your project manager and let them know where the files are located.
 10. Make sure you regularly check your inbox for any possible emails from the editor who may ask for some clarifications.
 
-TRANSLATION+EDITING+PROOFREADING
+**TRANSLATION+EDITING+PROOFREADING**
 
 Please proceed as already indicated above. 
