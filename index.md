@@ -24,3 +24,5 @@ We've made every effort to ensure that this guide is up-to-date and accurate. Ho
 
 Contact us at lukaszpilat2@gmail.com for any inquiries or suggestions for updates.
 
+![office](office1.jpg)
+
