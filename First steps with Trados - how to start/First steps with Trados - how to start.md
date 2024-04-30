@@ -14,6 +14,8 @@ Every single project consists of several XML files that will be provided to you 
 
 Locate the Trados Package File: The Trados package file typically has a ".sdlppx" extension. The core part of your Trados package name is the name of the project assigned to you.
 
+![Tradospackage](Tradospackage.jpg)
+
 Launch SDL Trados Studio.
 
 Open the Trados Package: In SDL Trados Studio, go to the "File" menu and select "Open Package." Alternatively, you can use the keyboard shortcut Ctrl + O. This will open a file dialog box.
