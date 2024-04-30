@@ -62,6 +62,10 @@ Even the best, most careful translator can omit some crucial mistakes that appea
 Xbench. 
 In order to start using it, simply press the purple gem icon in Trados. 
 
+![xbenchplugin](xbenchplugin.jpg)
+
+Credits for the image: https://docs.xbench.net/plugin-studio/using-the-plugin/
+
 Even though this highly advanced tool offers a wide range of options to choose from, it is sufficient to confine to the most basic ones. 
 Before you start performing an xBench QA of your first translated text, have a look at the software interface and the quick summary as outlined in the table below:
 
