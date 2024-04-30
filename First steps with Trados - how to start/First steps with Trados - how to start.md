@@ -45,6 +45,8 @@ Now try to remember the chapter devoted to project briefing analysis. Have a loo
 and continue with all of them, checking all the content. Try to maintain consistency within the file itself as well as in the entire project. Don't forget to confirm every single segment with the "Confirm" button. Otherwise you are bound
 to lose all your work results!
 
+![confirm](confirm.jpg)
+
 4. FUZZY MATCHES - TRICKS AND BEST PRACTICES
 
 While it is fairly easy to handle the 100% matches and repetitions, things go a bit complicated when you encounter a fuzzy match. In such a case, Trados provides a suggested translation along with a percentage indicating the level of similarity to the stored translation. Begin by reviewing the suggested translation and the source segment to understand the context.
