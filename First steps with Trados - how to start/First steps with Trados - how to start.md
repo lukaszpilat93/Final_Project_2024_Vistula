@@ -56,3 +56,5 @@ Depending on the degree of similarity and the context, you may need to edit the 
 5. FINAL...COUNTDOWN...NO, FINAL STEPS
 
 Now that you have reached the 100% score in the bottom page bar, you need to proceed differently, depending on your workflow. For more information, please see the following chapters.
+
+![progressbar](progress_bar.jpg)
