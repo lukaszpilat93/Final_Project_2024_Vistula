@@ -46,11 +46,11 @@ of things to keep in mind:
 
 - Go to the "View" tab on the ribbon menu at the top of the Trados Studio window.
 
--Within the "View" tab, locate the "Tag Settings" group.
+-Within the "View" tab, locate the "Options" group.
 
--Click on the drop-down arrow next to "Tags" or "Show/Hide Tags" (the exact wording may vary depending on your Trados Studio version).
+Select "Full Tag Text" or a similar option that enables the full tag view.
 
-In the drop-down menu, select "Full Tag Text" or a similar option that enables the full tag view.
+![Fulltag](Fulltag.jpg)
 
 2) In general, the tags used in target should very precisely mirror the ones used in source. Familiarize yourself with the sentence structure in the source and check if the corresponding words were put at the same places in target.
 When in doubt about the word/object represented by a tag, please make sure to consult the PDF reference provided and/or approach the client's project manager.
