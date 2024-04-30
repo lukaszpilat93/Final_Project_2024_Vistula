@@ -20,7 +20,7 @@ Launch SDL Trados Studio.
 
 Open the Trados Package: In SDL Trados Studio, go to the "File" menu and select "Open Package." Alternatively, you can use the keyboard shortcut Ctrl + O. This will open a file dialog box.
 
-!Open](openpage.jpg)
+![open](openpage.jpg)
 
 Select the Trados Package File: Navigate to the location where the Trados package file is saved, select it, and click "Open."
 
