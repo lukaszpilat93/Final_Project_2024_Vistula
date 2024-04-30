@@ -23,7 +23,9 @@ In simple words, it means carefully reading the entire text, paying special atte
 This is the most crucial part of the self-revision task, which can be, luckily, done quite automatically. You just need to press the F7 button and carefully examine all the instances shown.
 
 > Caution! Please bear in mind that not all the "mistakes" indicated by Trados spellcheck should be corrected. Even though this function relies on some modern solutions, including Hunspell, they
-are not perfect enough to be fully trusted. Your discretion and common sense will be very much appreciated. 
+are not perfect enough to be fully trusted. Your discretion and common sense will be very much appreciated.
+
+This part of the task can be also performed with Xbench. Please see the instructions below for further clarifications.
 
 -consistency
 
