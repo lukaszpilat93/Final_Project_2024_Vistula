@@ -1,1 +1,9 @@
 title: Technical translation guide
+description: Technical translation guide
+theme: just-the-docs
+
+url: https://lukaszpilat93.github.io/Translating-automotive-content-for-beginners/
+
+aux_links:
+  Template Repository: https://github.com/lukaszpilat93/Translating-automotive-content-for-beginners
+color_scheme: dark
