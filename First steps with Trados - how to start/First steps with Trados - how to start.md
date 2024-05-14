@@ -16,7 +16,6 @@ Locate the Trados Package File: The Trados package file typically has a ".sdlppx
 
 ![Tradospackage](First steps with Trados - how to start/Tradospackage.jpg)
 
-
 Launch SDL Trados Studio.
 
 Open the Trados Package: In SDL Trados Studio, go to the "File" menu and select "Open Package." Alternatively, you can use the keyboard shortcut Ctrl + O. This will open a file dialog box.
