@@ -1,0 +1,19 @@
+**GLOSSARY**
+
+Since working with Trados may be a bit demanding at the first glance, you may need to have some terms explained. That's where our
+short glossary comes in handy. In the course of your learning process, you are free to add any terms you like:
+
+| Term             | Definition |
+|------------------|-------------|
+| **CAT Tool**     | Computer-Assisted Translation tool used to aid translators by automating some aspects of the translation process. |
+| **TM (Translation Memory)** | A database that stores previously translated sentences, phrases, and segments along with their corresponding translations. |
+| **Segment**      | A section of text (sentence, phrase, or paragraph) that is treated as a single unit for translation. |
+| **Source Text**  | The original text that needs to be translated. |
+| **Target Text**  | The translated text resulting from the translation of the source text. |
+| **Fuzzy Match**  | A translation memory match that is less than 100% identical to the source text segment. |
+| **QA Check**     | Quality Assurance check that ensures the translated text meets certain predefined standards and is free from errors. |
+| **Project Package** | A bundle of files and resources (source files, TMs) used in a translation project. |
+| **SDLXLIFF**     | The bilingual file format used by SDL Trados Studio for translation projects. |
+| **Filter**       | A tool used to manage which segments or types of content are displayed or processed in the translation environment. |
+| **Segmentation** | The process of dividing the source text into manageable segments for translation. |
+| **Concordance Search** | A search function in the translation memory that allows translators to find how specific words or phrases were translated in past projects. |
