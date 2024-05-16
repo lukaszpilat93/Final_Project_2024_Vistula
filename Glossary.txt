@@ -10,6 +10,8 @@ nav_order: 8
 
 Since working with Trados may be a bit demanding at the first glance, you may need to have some terms explained. That's where our
 short glossary comes in handy. In the course of your learning process, you are free to add any terms you like:
+
+
 | **CAT Tool**     | Computer-Assisted Translation tool used to aid translators by automating some aspects of the translation process. |
 | **TM (Translation Memory)** | A database that stores previously translated sentences, phrases, and segments along with their corresponding translations. |
 | **Segment**      | A section of text (sentence, phrase, or paragraph) that is treated as a single unit for translation. |
