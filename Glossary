@@ -1,19 +1,22 @@
 **GLOSSARY**
 
+
 Since working with Trados may be a bit demanding at the first glance, you may need to have some terms explained. That's where our
 short glossary comes in handy. In the course of your learning process, you are free to add any terms you like:
-
-| Term             | Definition |
-|------------------|-------------|
 | **CAT Tool**     | Computer-Assisted Translation tool used to aid translators by automating some aspects of the translation process. |
 | **TM (Translation Memory)** | A database that stores previously translated sentences, phrases, and segments along with their corresponding translations. |
 | **Segment**      | A section of text (sentence, phrase, or paragraph) that is treated as a single unit for translation. |
 | **Source Text**  | The original text that needs to be translated. |
 | **Target Text**  | The translated text resulting from the translation of the source text. |
-| **Fuzzy Match**  | A translation memory match that is less than 100% identical to the source text segment. |
-| **QA Check**     | Quality Assurance check that ensures the translated text meets certain predefined standards and is free from errors. |
-| **Project Package** | A bundle of files and resources (source files, TMs) used in a translation project. |
-| **SDLXLIFF**     | The bilingual file format used by SDL Trados Studio for translation projects. |
-| **Filter**       | A tool used to manage which segments or types of content are displayed or processed in the translation environment. |
+| **Bilingual File** | A file format that contains both the source and target language versions of a document for translation. |
+| **Quality Assurance (QA)** | The process of checking translated content for accuracy, consistency, and adherence to specified standards. |
+| **Trados package**     | A file you get for translation. In order to open it, just double click the icon. |
+| **Spell Check**  | A feature that verifies the spelling of words in the translated text. |
+| **Formatting**   | The process of preserving the formatting of the source text in the translated document. |
 | **Segmentation** | The process of dividing the source text into manageable segments for translation. |
-| **Concordance Search** | A search function in the translation memory that allows translators to find how specific words or phrases were translated in past projects. |
+| **Translation Editor** | The interface within the CAT tool where translators input, edit, and review translations. |
+| **Term Recognition** | The feature that identifies and suggests translations for terms found in the source text based on the glossary or termbase. |
+| **Project Management** | The organization and coordination of tasks, resources, and timelines involved in translation projects. |
+
+
+
