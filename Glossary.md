@@ -6,7 +6,7 @@ nav_order: 8
 **GLOSSARY**
 
 
-Since working with Trados may be a bit demanding at the first glance, you may need to have some terms explained. That's where our
+Since working with Trados may be somehow demanding at the first glance, you may need to have some terms explained. That's where our
 short glossary comes in handy. In the course of your learning process, you are free to add any terms you like:
 
 
