@@ -14,7 +14,7 @@ This manual is tailored specifically for fresh graduates like yourself who are b
 
 Let this manual be your trusted companion on the journey ahead. With dedication, perseverance, and a passion for language, the possibilities are limitless, and the road to success awaits. 
 
-It is also highly advisable to keep it for future reference so that you can consult it any time it is needed.
+It is also highly advisable to keep it for future reference so that you can consult it any time it may be needed.
 
 **Good luck!**
 
