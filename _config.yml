@@ -1,5 +1,4 @@
-title: Technical translation guide
 
-layout: default
-title: Home
-nav_enabled: true
+title: Technical translation guide
+description: A starter template
+theme: just-the-docs
