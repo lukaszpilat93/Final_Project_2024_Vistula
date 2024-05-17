@@ -1,6 +1,6 @@
 ---
 
-title: Further reading and references
+title: File types - what can you expect
 layout: default
 nav_order: 8
 
