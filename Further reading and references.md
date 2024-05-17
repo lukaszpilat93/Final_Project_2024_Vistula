@@ -1,6 +1,6 @@
 ---
 
-title: Further reading + references
+title: Further reading and references
 layout: default
 nav_order: 8
 
