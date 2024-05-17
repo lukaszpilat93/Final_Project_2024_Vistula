@@ -52,5 +52,5 @@ For instance the word NOTE. It is written in uppercase letters as many technical
 
 **Question**: May I use machine translation? This would spped up the translation process and help me get ready with the task even before deadline.
 
-**Answer**: Unfortunately no. According to the non-disclosure agreement that our company signed you are not allowed to use any third-party translation providers, including machine translation services. Most of the files include sensitive data and proprietary information that would be revealed to the machine translation system. Moreover, even the most advanced machine translation providers don't mind the context of the entire file, including the segments already translated earlier.
+**Answer**: Unfortunately no. According to the non-disclosure agreement that our company signed you are not allowed to use any third-party translation providers, including machine translation services. Most of the files include sensitive data and proprietary information that would be revealed to the machine translation system. Moreover, even the most advanced machine translation providers **don't mind the context of the entire file**, including the segments already translated earlier.
 
