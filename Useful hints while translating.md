@@ -8,7 +8,8 @@ nav_order: 7
 
 USEFUL HINTS WHILE TRANSLATING
 ===============
-Now that you have gone through most of the topics, you still may have some doubts and second thoughts. This section aims to answer some of the frequently asked questions, but it is not exhaustive. 
+Now that you have gone through most of the topics, you still may have some doubts and second thoughts. This section aims to answer some of the frequently asked questions, but it is not meant to be a one and only solution.
+
 In case you need some more explanations, please do not hesitate to ask your the project manager of the client's side.
 
 **Question: I am experiencing some Internet problems, which means I cannnot connect to Xbench in order to perform QA. what should I do?**
