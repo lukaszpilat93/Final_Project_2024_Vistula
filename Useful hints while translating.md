@@ -47,7 +47,8 @@ issues that are perfectly correct in the target language at first glance.
 ![Xbench](Xbench_sample.jpg)
 
 It goes without saying that some errors that you can see here are NOT the real ones.
-For instance the word NOTE. It is written in uppercase letters as may technical acronyms, which is why Xbench treats it as such. It is, however, an ordinary noun.
+
+For instance the word NOTE. It is written in uppercase letters as many technical acronyms, which is why Xbench treats it as such. It is, however, an ordinary noun.
 
 **Question**: May I use machine translation? This would spped up the translation process and help me get ready with the task even before deadline.
 
