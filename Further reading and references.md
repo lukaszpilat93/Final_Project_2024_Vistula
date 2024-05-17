@@ -5,7 +5,7 @@ layout: default
 nav_order: 8
 
 ---
-FURTHER READING + FURTHER REFERENCES
+FURTHER READING AND REFERENCES
 ===============
 Even though you have certainly acquired some valuable knowledge about the Polish language style and grammar during your studies, there is always some room for improvement. 
 
