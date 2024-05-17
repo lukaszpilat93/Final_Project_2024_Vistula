@@ -42,7 +42,7 @@ ambiguous or when translators use different segmentation preferences for clarify
 In a nutshell, there is no instant solution for those nuisances. You are, instead, strongly advised to carefully (and critically) review all the segments and use your common sense, automatically sorting out the
 issues that are perfectly correct in the target language at first glance.
 
-Please cast a look at this example:
+**Please cast a look at this example:**
 
 ![Xbench](Xbench_sample.jpg)
 
