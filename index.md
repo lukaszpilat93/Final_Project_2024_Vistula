@@ -16,7 +16,7 @@ Please note that this manual is not meant to be always up to date. Your collabot
 ## Contact Me
 
 [![Email](https://img.icons8.com/ios-filled/50/000000/email.png)](mailto:lukaszpilat2@gmail.com)
-[![LinkedIn](https://img.icons8.com/ios-filled/50/000000/linkedin.png)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/%C5%82ukasz-pilat-567885129/)
+[![LinkedIn](https://img.icons8.com/ios-filled/50/000000/linkedin.png)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/%C5%82ukasz-pilat-567885129)
 
 ![Office](office1.jpg)
 
