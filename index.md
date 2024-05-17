@@ -13,10 +13,24 @@ This manual is tailored specifically for fresh graduates like yourself who are b
 
 Please note that this manual is not meant to be always up to date. Your collabotarion and support will be very much appreciated.
 
-## Contact Me
+---
+### Contact Information
 
-[![Email](https://img.icons8.com/ios-filled/50/000000/email.png)](mailto:lukaszpilat2@gmail.com)
-[![LinkedIn](https://img.icons8.com/ios-filled/50/000000/linkedin.png)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/%C5%82ukasz-pilat-567885129)
+
+- ![Email Icon](https://example.com/email-icon.png) **Email**: [yourname@example.com](mailto:lukaszpilat2@gmail.com)
+- ![LinkedIn Icon](https://example.com/linkedin-icon.png) **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/%C5%82ukasz-pilat-567885129/)
+
+---
+
+Thank you for visiting my profile. Feel free to reach out through email or connect with me on LinkedIn!
+
+---
+
+
+---
+
+Thank you for visiting my profile. Feel free to reach out through email or connect with me on LinkedIn!
+
 
 ![Office](office1.jpg)
 
