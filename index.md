@@ -22,7 +22,6 @@ Please note that this manual is not meant to be always up to date. Your collabot
 
 ---
 
-Thank you for visiting my profile. Feel free to reach out through email or connect with me on LinkedIn!
 
 ---
 
