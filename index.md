@@ -17,8 +17,8 @@ Please note that this manual is not meant to be always up to date. Your collabot
 ### Contact Information
 
 
-- ![Email Icon](https://example.com/email-icon.png) **Email**: [yourname@example.com](mailto:lukaszpilat2@gmail.com)
-- ![LinkedIn Icon](https://example.com/linkedin-icon.png) **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/%C5%82ukasz-pilat-567885129/)
+- ![Email Icon](https://example.com/email-icon.png) **Email**: [lukaszpilat2@gmail.com](mailto:lukaszpilat2@gmail.com)
+- ![LinkedIn Icon](https://example.com/linkedin-icon.png) **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/%C5%82ukasz-pilat-567885129/)
 
 ---
 
