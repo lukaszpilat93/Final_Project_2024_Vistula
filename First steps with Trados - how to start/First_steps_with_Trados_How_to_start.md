@@ -42,7 +42,7 @@ These are the so-called matches. Here is a short overview:
 
 **SHOULD I STAY OR SHOULD I GO? HOW TO HANDLE THE TRADOS SEGMENTS**
 
-Now try to remember the chapter devoted to project briefing analysis. Have a look at the given project requirements and check what the client ordered. If it is **translation-only", please start with the first segment you see
+Now try to remember the chapter devoted to project briefing analysis. Have a look at the given project requirements and check what the client ordered. If it is **translation-only**, please start with the first segment you see
 and continue with all of them, checking all the content. Try to maintain consistency within the file itself as well as in the entire project. Don't forget to confirm every single segment with the "Confirm" button. Otherwise you are bound
 to lose all your work results!
 
