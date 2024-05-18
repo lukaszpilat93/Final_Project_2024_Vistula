@@ -48,14 +48,16 @@ of things to keep in mind:
 
 - Within the "View" tab, locate the "Options" group.
 
-Now select "Full Tag Text". This lets you see the whole tags.
+- Now select "Full Tag Text". This lets you see the whole tags.
 
 ![Fulltag](Fulltag.jpg)
 
-2) In general, the tags used in target should very precisely mirror the ones used in source. Familiarize yourself with the sentence structure in the source and check if the corresponding words were put at the same places in target.
+<i class="fas fa-info-circle"></i> 
+
+In general, the tags used in target should very precisely mirror the ones used in source. Familiarize yourself with the sentence structure in the source and check if the corresponding words were put at the same places in target.
 When in doubt about the word/object represented by a tag, please make sure to consult the PDF reference provided and/or approach the client's project manager.
 
-3) The easiest way to verify if the tags were placed correctly is to run the QA with xBench. This is going to be explained a bit further on.
+The easiest way to verify if the tags were placed correctly is to run the QA with xBench. This is going to be explained a bit further on.
 
 QA WITH XBENCH
 ===============
