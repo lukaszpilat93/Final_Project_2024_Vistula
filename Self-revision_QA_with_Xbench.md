@@ -52,7 +52,7 @@ of things to keep in mind:
 
 ![Fulltag](Fulltag.jpg)
 
-<i class="fas fa-info-circle"></i> 
+:information_source:
 
 In general, the tags used in target should very precisely mirror the ones used in source. Familiarize yourself with the sentence structure in the source and check if the corresponding words were put at the same places in target.
 When in doubt about the word/object represented by a tag, please make sure to consult the PDF reference provided and/or approach the client's project manager.
