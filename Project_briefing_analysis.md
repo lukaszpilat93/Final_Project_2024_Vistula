@@ -1,3 +1,10 @@
+---
+
+title: Project briefing analysis
+layout: default
+nav_order: 2
+
+---
 PROJECT BRIEFING ANALYSIS
 ===============
 Now that you know the expectations regarding the tone of voice and general style considerations, it is time to make the next step. Every project handout contains the so called **project briefing**. 
@@ -11,7 +18,7 @@ The most vital thing to remember is the difference between the following workflo
 
 This is the most basic workflow our client orders for non-customer facing outputs, such as e.g. internal guidelines of lesser importance. Since it is ONLY YOU who is expected to work on the project,
 make sure to check all the segments (called matches) as well as repetitions and context matches. The final (but equally important) step is to perform a quality assurance task being explained later. Afterwards, you instead of the project manager are expected to 
-forward the delivery to our final client. For more information about the various segment types, please go to the chapter FIRST STEPS WITH TRADOS - HOW TO START.
+forward the delivery to our final client. For more information about the various segment types, please go to the chapter [File types - what can you expect](File_types_what_can_you_expect.md).
 
 **Translation + editing**
 

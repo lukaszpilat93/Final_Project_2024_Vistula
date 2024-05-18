@@ -1,7 +1,9 @@
 ---
-title: File types - What can you expect and how to proceed to be successful
+
+title: File types - what can you expect
 layout: default
-nav_order: 1
+nav_order: 3
+
 ---
 FILE TYPES - WHAT CAN YOU EXPECT AND HOW TO PROCEED TO BE SUCCESSFUL
 ===============
@@ -18,6 +20,9 @@ you must know the core differences between the two types you are likely to encou
 
 **SPECIFIC HINTS FOR NARS FILES**
 
+<div style="border: 1px solid red; padding: 10px; background-color: #f8d7da; color: #721c24;">
+  <strong>⚠️ Warning:</strong>
+</div>
 Please also note that in the Nars files, you will find some specific codes that indicate a special workflow.
 
 Whenever you see an *AP00 file*, please do not follow the normal structure for orders, such as e.g. Dokręć śrubę, but use the infinitive form, instead (in this case "Dokręcenie śruby"). This is especially important as these files are
@@ -32,19 +37,7 @@ have a very tight time-to-market schedule!
 **GENERAL STYLE & GRAMMAR CONSIDERATIONS**
 
 Irrespective of the file type, please bear in mind that you are expected to provide meticulous, error-free translation as it is a vital part of the brand's image. Should any doubts arise, never guess the correct workflow. Instead, please
-DO CONSULT the widely known references:
-
--Polish language dictionary: https://sjp.pwn.pl/
-
--FAQ about the Polish language: https://sjp.pwn.pl/poradnia
-
--Excel-based dictionary prepared on the basis of previous translations + feedback from Mercedes-Benz AG. In order to reach it, please go to: [TU WSTAWIĆ LINK DO GOOGLE DRIVE ZE SŁOWNIKIEM]
-
->In case of any doubts please remember to FILL IN AND SUBMIT THE Q&A SHEET IN DUE time so that the project managers on the client's side have enough time to reply.
-
-It is, however, not only grammar that matters. Please note that you are expected to follow the specific style guidelines that will help you ensure consistency with the rest of the materials already in use. 
-
-To find out more, please visit [Branding Styleguides](https://brandingstyleguides.com/guide/mercedes-benz/).
+DO CONSULT the widely known reference. To find out more, please visit [Further reading + references](Further_reading_and_references.md).
 
 
 
