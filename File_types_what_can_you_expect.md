@@ -20,7 +20,9 @@ you must know the core differences between the two types you are likely to encou
 
 **SPECIFIC HINTS FOR NARS FILES**
 
-{: .warning }
+<div style="border: 1px solid red; padding: 10px; background-color: #f8d7da; color: #721c24;">
+  <strong>⚠️ Warning:</strong>
+</div>
 Please also note that in the Nars files, you will find some specific codes that indicate a special workflow.
 
 Whenever you see an *AP00 file*, please do not follow the normal structure for orders, such as e.g. Dokręć śrubę, but use the infinitive form, instead (in this case "Dokręcenie śruby"). This is especially important as these files are
