@@ -48,7 +48,7 @@ of things to keep in mind:
 
 - Within the "View" tab, locate the "Options" group.
 
-Now select "Full Tag Text" or a similar option that enables the full tag view.
+Now select "Full Tag Text". This lets you see the whole tags.
 
 ![Fulltag](Fulltag.jpg)
 
