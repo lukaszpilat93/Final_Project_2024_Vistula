@@ -26,8 +26,9 @@ The next step is to generate the sdlxliff files. To do so, please open your Trad
 8. You will be then directed to the folder with your files. You should find them in the "pl-PL" folder.
 9. Select all the files once again and upload them to a newly created folder on the F:/ drive. 
 10. Afterwards, please sign in to the XTRF Vendor Portal and click the project name.
-11. You can see the project page and the "Delivered Files" section. It is the place where you need to upload your files. 
-12. There is nothing more to do on your side. The project manager of our client will get notified that we are done. Congratulations!
+11. You can see the project page and the "Delivered Files" section. It is the place where you need to upload your files.
+    ![xtrf](xtrfdelivery.jpg) 
+13. There is nothing more to do on your side. The project manager of our client will get notified that we are done. Congratulations!
 
 **TRANSLATION+EDITING**
 
