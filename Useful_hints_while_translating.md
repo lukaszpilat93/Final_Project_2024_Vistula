@@ -30,14 +30,12 @@ The same rule applies to spellcheck. In order to verify if your translation is f
 **Answer**: Even though Xbench is a smart and very helpful tool, it is not perfect, which means it can flag several instances as errors even though they are perfectly correct. In order to facilitate your review
 of the Xbench report, have a quick look at the possible error sources:
 
-**Numbers and Variables**: XBench may flag segments containing numbers or variables as potential errors if they deviate slightly from the source text. In some cases the Polish language requires to spell-out numerals. If you do so, Xbench will notify you about 
-this discrepancy, as it cannot associate both.
+| Title                     | Description                                                                                                                                                                                                                                 |
+|---------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Numbers and Variables     | XBench may flag segments containing numbers or variables as potential errors if they deviate slightly from the source text. In some cases the Polish language requires to spell-out numerals. If you do so, Xbench will notify you about this discrepancy, as it cannot associate both. |
+| Abbreviations and Acronyms| The technical texts, especially NARS contain many abbreviations that are a commonplace in the industry. Since they are meant to replace a word in the specific language, they will be different. Since Xbench is programmed to check for consistency, it will automatically flag them as errors.                             |
+| Segmentation Issues       | XBench might generate the so called “false posiitives” due to segmentation issues, where a single source segment is split into multiple target segments or vice versa. This can occur when sentence boundaries are ambiguous or when translators use different segmentation preferences for clarify reasons.               |
 
-**Abbreviations and Acronyms**: The technical texts, especially NARS contain many abbreviations that are a commonplace in the industry. Since they are meant to replace a word in the specific language, they will be different. Since Xbench
-is programmed to check for consistency, it will automatically flag them as errors. 
-
-**Segmentation Issues**: XBench might generate the so called "false posiitives" due to segmentation issues, where a single source segment is split into multiple target segments or vice versa. This can occur when sentence boundaries are
-ambiguous or when translators use different segmentation preferences for clarify reasons.
 
 In a nutshell, there is no instant solution for those nuisances. You are, instead, strongly advised to carefully (and critically) review all the segments and use your common sense, automatically sorting out the
 issues that are perfectly correct in the target language at first glance.
