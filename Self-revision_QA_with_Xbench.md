@@ -11,14 +11,14 @@ SELF-REVISION
 
 Translating the entire project is not the end of your task. Quite the contrary. As a part of our quality standard policy, you are expected to conduct two additional steps:
 
--self-revision of your work
--QA with Xbench 
+- self-revision of your work
+- QA with Xbench 
 
 **SELF-REVISION OF YOUR WORK**
 
 In simple words, it means carefully reading the entire text, paying special attention to the following aspects:
 
--spelling
+- spelling
 
 This is the most crucial part of the self-revision task, which can be, luckily, done quite automatically. You just need to press the F7 button and carefully examine all the instances shown.
 
@@ -27,17 +27,17 @@ are not perfect enough to be fully trusted. Your discretion and common sense wil
 
 This part of the task can be also performed with Xbench. Please see the instructions below for further clarifications.
 
--consistency
+- consistency
 
 Don't forget that one source term should have in most cases only **ONE** equivalent in the target. This is especially important for the reader who needs to follow certain procedures promptly, 
 without getting confused about ambiguities
 
--style
+- style
 
 As already indicated in the previous chapters, you will work with several different files that have their own specific requirements in terms of style. Before starting your self-revision, please reach out to the [File types - what can you expect](File_types - what_can_you_expect.md)
 chapter. 
 
--tags
+- tags
 
 The last element you need to consider are purple text elements called tags. Handling tags is essential for preserving the formatting and structure of the original document. Have a look at this short overview
 of things to keep in mind:
