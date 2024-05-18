@@ -102,13 +102,13 @@ To do so, simply press the "QA" button in the upper toolbar and then proceed to 
 As a result you will get a report outlining the error categories prepared on the basis of your output. Each of them contains the segments in which those issues occurred, accompanied by their number. Here's how to proceed to maximize
 the chance of spotting (and correcting) all errors:
 
-Review Issues: Go through the issues identified in the report one by one. Even though the segment may seem OK at first glance, double-check it.
+**Review Issues:** Go through the issues identified in the report one by one. Even though the segment may seem OK at first glance, double-check it.
 
-Fix Issues in Translation Tool: If you find any issues in the translation, you should go back to Trados and make the necessary corrections. Remember to confirm the segments again after editing them!
+**Fix Issues in Translation Tool:** If you find any issues in the translation, you should go back to Trados and make the necessary corrections. Remember to confirm the segments again after editing them!
 
-Re-run QA Check (Optional): After making corrections, you can re-run the QA check in Xbench to ensure that the issues have been addressed.
+**Re-run QA Check (Optional):** After making corrections, you can re-run the QA check in Xbench to ensure that the issues have been addressed.
 
-Save or Export Report: Once you're satisfied with the corrections, please save or export the Xbench report. Our client might ask for it. 
+**Save or Export Report:** Once you're satisfied with the corrections, please save or export the Xbench report. Our client might ask for it. 
 
 
 
