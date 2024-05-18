@@ -11,8 +11,8 @@ SELF-REVISION
 
 Translating the entire project is not the end of your task. Quite the contrary. As a part of our quality standard policy, you are expected to conduct two additional steps:
 
-- self-revision of your work
-- QA with Xbench 
+1. self-revision of your work
+2. QA with Xbench 
 
 **SELF-REVISION OF YOUR WORK**
 
