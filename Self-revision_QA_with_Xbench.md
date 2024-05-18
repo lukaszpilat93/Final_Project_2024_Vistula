@@ -42,13 +42,13 @@ chapter.
 The last element you need to consider are purple text elements called tags. Handling tags is essential for preserving the formatting and structure of the original document. Have a look at this short overview
 of things to keep in mind:
 
-1) Please make sure you have enabled the full tag view. To do so, please go to:
+1) Please make sure you have enabled the full tag view. To do so, please:
 
 - Go to the "View" tab on the ribbon menu at the top of the Trados Studio window.
 
 - Within the "View" tab, locate the "Options" group.
 
-Select "Full Tag Text" or a similar option that enables the full tag view.
+Now select "Full Tag Text" or a similar option that enables the full tag view.
 
 ![Fulltag](Fulltag.jpg)
 
