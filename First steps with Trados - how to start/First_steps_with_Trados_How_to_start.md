@@ -4,9 +4,9 @@ title: First steps with Trados - how to start
 layout: default
 nav_order: 4
 
+---
 FIRST STEPS WITH TRADOS - HOW TO START
 ===============
----
 
 Since you are expected to work with Trados, it is vital to know some basic steps that need to be followed.
 
