@@ -28,7 +28,7 @@ Please note that this manual is not meant to be always up to date. Your collabot
 
 ---
 
-Thank you for visiting my profile. Feel free to reach out through email or connect with me on LinkedIn!
+This page is for educational and training purposes. Feel free to edit it if needed.
 
 
 ![Office](office1.jpg)
