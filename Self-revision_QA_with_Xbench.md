@@ -34,7 +34,7 @@ without getting confused about ambiguities
 
 -style
 
-As already indicated in the previous chapters, you will work with several different files that have their own specific requirements in terms of style. Before starting your self-revision, please reach out to the "File types - what can you expect"
+As already indicated in the previous chapters, you will work with several different files that have their own specific requirements in terms of style. Before starting your self-revision, please reach out to the [File types - what can you expect](File_types - what_can_you_expect.md)
 chapter. 
 
 -tags
